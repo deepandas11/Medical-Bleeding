@@ -1,10 +1,10 @@
-#CNN+RNN Model for Bleed Detection
+# CNN+RNN Model for Bleed Detection
 
 
-##Done:
+## Done:
 - Basic Data Schema
 
-##TODO:
+## TODO:
 - Implement the Dataloader
     - How to return data - look at others' work
 - Figure out how to feed data to RNN from the CNN
